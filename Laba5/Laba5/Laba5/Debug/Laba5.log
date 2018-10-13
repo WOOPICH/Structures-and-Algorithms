@@ -1,0 +1,29 @@
+﻿  stdafx.cpp
+  Laba5.cpp
+c:\users\dimka\desktop\мирэа\3 семестр\структуры\laba5\laba5\laba5\laba5.cpp(14): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(439): note:  см. объявление "strtok"
+c:\users\dimka\desktop\мирэа\3 семестр\структуры\laba5\laba5\laba5\laba5.cpp(18): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(439): note:  см. объявление "strtok"
+c:\users\dimka\desktop\мирэа\3 семестр\структуры\laba5\laba5\laba5\laba5.cpp(50): error C2679: бинарный "[": не найден оператор, принимающий правый операнд типа "char *" (или приемлемое преобразование отсутствует)
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\map(349): note: может быть "int &std::map<char [],int,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>::operator [](const char (&)[])"
+          with
+          [
+              _Kty=char [],
+              _Ty=int
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\map(185): note: или       "int &std::map<char [],int,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>::operator [](char (&&)[])"
+          with
+          [
+              _Kty=char [],
+              _Ty=int
+          ]
+  c:\users\dimka\desktop\мирэа\3 семестр\структуры\laba5\laba5\laba5\laba5.cpp(50): note: при попытке сопоставить список аргументов "(std::map<char [],int,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>, char *)"
+          with
+          [
+              _Kty=char [],
+              _Ty=int
+          ]
+c:\users\dimka\desktop\мирэа\3 семестр\структуры\laba5\laba5\laba5\laba5.cpp(47): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(439): note:  см. объявление "strtok"
+c:\users\dimka\desktop\мирэа\3 семестр\структуры\laba5\laba5\laba5\laba5.cpp(51): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(439): note:  см. объявление "strtok"
