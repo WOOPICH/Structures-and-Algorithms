@@ -1,5 +1,0 @@
-﻿  Laba8.cpp
-c:\users\dimka\desktop\мирэа\3 семестр\структуры\laba8\laba8\laba8.cpp(85): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  LINK : не найден или не выполнена сборка C:\Users\dimka\Desktop\МИРЭА\3 Семестр\Структуры\Laba8\Debug\Laba8.exe при последней инкрементной компоновке; выполняется полная компоновка
-  Laba8.vcxproj -> C:\Users\dimka\Desktop\МИРЭА\3 Семестр\Структуры\Laba8\Debug\Laba8.exe
-  Laba8.vcxproj -> C:\Users\dimka\Desktop\МИРЭА\3 Семестр\Структуры\Laba8\Debug\Laba8.pdb (Partial PDB)

@@ -1,6 +1,0 @@
-﻿  Laba2.cpp
-c:\users\dimka\desktop\мирэа\3 семестр\структуры\laba2\laba2\laba2.cpp(20): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\dimka\desktop\мирэа\3 семестр\структуры\laba2\laba2\laba2.cpp(29): warning C4018: <: несоответствие типов со знаком и без знака
-  LINK : не найден или не выполнена сборка C:\Users\dimka\Desktop\МИРЭА\3 Семестр\Структуры\Laba2\Debug\Laba2.exe при последней инкрементной компоновке; выполняется полная компоновка
-  Laba2.vcxproj -> C:\Users\dimka\Desktop\МИРЭА\3 Семестр\Структуры\Laba2\Debug\Laba2.exe
-  Laba2.vcxproj -> C:\Users\dimka\Desktop\МИРЭА\3 Семестр\Структуры\Laba2\Debug\Laba2.pdb (Partial PDB)
